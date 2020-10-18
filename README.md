@@ -4,7 +4,7 @@ Tribes
 ## Beliefs
 1. Individuals are vulnerable to the internet, governments and large entitites (like corporations) in many known and unknown ways
 2. Cryptography and technology allow people to gain herd-protection from the internet, government and large entitites
-3. Bitcoin
+3. Bitcoin enables global commerce while evicting the middle-men and overlords
 
 
 ## Examples
