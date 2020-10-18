@@ -1,10 +1,10 @@
 Tribes
 --------------
 
-## Background
-1. By 2030 people will need herd protections from the internet,governments and corporations
-2. Bitcoin gives people the ability to transaction privately, without middle-men and to pool their capital for efficiency and for herd protection
-3. 
+## Beliefs
+1. Individuals are vulnerable to the internet, governments and large entitites (like corporations) in many known and unknown ways
+2. Cryptography and technology allow people to gain herd-protection from the internet, government and large entitites
+3. Bitcoin
 
 
 ## Examples
