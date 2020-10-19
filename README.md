@@ -20,7 +20,7 @@ Tribes
 4. 
 
 
-## Tools of the Trade
+## What to Build
 1. Hardware wallets
 2. Totems
 3. Altars
