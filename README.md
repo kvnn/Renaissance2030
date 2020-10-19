@@ -14,9 +14,10 @@ Tribes
 
 
 ## Examples of Individual Risk in 2030
-1. AI bots intelligently masquerading as friends, family and colleagues
-2. The IRS demanding a Privilege Tax by Monday
-3. 
+1. Internet drones destroying the community farm
+2. AI bots intelligently masquerading as friends, family and colleagues
+3. The IRS demanding a Privilege Tax by Monday
+4. 
 
 
 ## Tools of the Trade
