@@ -23,7 +23,7 @@ Contract Law.
 - It is very bad for business, because it causes confusion and delusion.    
 
 ### American Business
-Any business colloquially referred to as a "small business" should benefit from this proposed solution (aka Tribes).    
+- Any business colloquially referred to as a "small business" should benefit from this proposed solution (aka Tribes).    
 
 ### Bitcoin
 - Bitcoin can not be confiscated or stolen without the exposure if its owner's Private Key.    
