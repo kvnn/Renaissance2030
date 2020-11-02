@@ -26,11 +26,12 @@ Bitcoin + Law
 
 
 ### Liars
-- Lying "Tears at the fabric of Reality". [Solzhenitsyn 1973, J.Peterson ~2017]    
-- It is very bad for business, because it causes confusion and delusion.    
+- Lying causes Confusion and Delusion
+- "It tears at the fabric of Reality". [Solzhenitsyn 1973, J.Peterson ~2017]
+- Its "bad for business"
 
 ### American Business
-- Any business colloquially referred to as a "small business" should benefit from this proposed solution (aka Tribes).    
+- Any business colloquially referred to as a "small business" should benefit from this proposed solution .
 
 ### Bitcoin
 - Bitcoin can not be confiscated or stolen without the exposure if its owner's Private Key.    
