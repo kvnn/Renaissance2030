@@ -13,6 +13,7 @@ Bitcoin + Law
 
 ### Abstract
 - [Trust](https://en.wikipedia.org/wiki/Trust_(social_science)) is a Social Commodity
+- [Bitcoin](https://bitcoin.org/bitcoin.pdf) allows us to Increase Trust using the [Power of Truth](https://medium.com/@erikcason/crypto-truth-and-power-a3e08a51c77) (this is always done in War)
 - [Incentivizing](https://en.wikipedia.org/wiki/Incentive) Trust increases Social Cohesion
 - [Social Cohesion](https://en.wikipedia.org/wiki/Group_cohesiveness), in 2020, can surely bring a [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
 - Renaissance, by 2030, is the Goal
@@ -42,4 +43,3 @@ Bitcoin + Law
 ### Law
 [... coming soon ...    
 ... for now please refer to [Nick Szabo's](https://unenumerated.blogspot.com/) work on the Social Scalability of Blockchains : https://nakamotoinstitute.org/money-blockchains-and-social-scalability/]    
-
