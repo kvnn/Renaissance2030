@@ -12,7 +12,7 @@ Bitcoin + Law
 
 
 ### Abstract
-- [Trust](https://en.wikipedia.org/wiki/Trust_(social_science)) is a Soft Commodity
+- [Trust](https://en.wikipedia.org/wiki/Trust_(social_science)) is a Social Commodity
 - [Incentivizing](https://en.wikipedia.org/wiki/Incentive) Trust increases Social Cohesion
 - [Social Cohesion](https://en.wikipedia.org/wiki/Group_cohesiveness), in 2020, can surely bring a [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
 - Renaissance, by 2030, is the Goal
