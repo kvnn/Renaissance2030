@@ -47,4 +47,4 @@ Bitcoin + Law
 
 ### Law
 (in progress)
-- See [Nick Szabo's](https://unenumerated.blogspot.com/) work on the Social Scalability of [Blockchains](https://nakamotoinstitute.org/money-blockchains-and-social-scalability/)    
+- See [Nick Szabo's](https://unenumerated.blogspot.com/) work on the [Social Scalability of Blockchains](https://nakamotoinstitute.org/money-blockchains-and-social-scalability/)    
