@@ -30,6 +30,7 @@ Bitcoin + Law
 - Lying causes Confusion and Delusion
 - "It tears at the fabric of Reality". [Solzhenitsyn 1973, J.Peterson ~2017]
 - Its "bad for business"
+- See http://www.bbc.co.uk/ethics/lying/lying_1.shtml
 
 ### American Business
 - Any business colloquially referred to as a "small business" should benefit from this proposed solution .
