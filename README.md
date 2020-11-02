@@ -7,8 +7,7 @@ Criminals & Liars
    from
 American Business
    using
-Bitcoin &
-Contract Law.
+Bitcoin + Law
 ```
 
 
@@ -39,7 +38,7 @@ Contract Law.
 - Its possible for business to operate in a manner in which the only serious threat to a Private Key theft is a very local threat.    
 - If the threat of a small business to lose its funds is turned into a local-only threat, and the business has Common-Law Contracts with other small businesses, the incentives of the business have turned towards cooperation and good-standing with its fellow local-businesses, as well as towards secure-keeping of its most valuable Private Keys.
 
-### Contract Law
+### Law
 [... coming soon ...    
 ... for now please refer to Nick Szabo's work on the Social Scalability of Blockchains : https://nakamotoinstitute.org/money-blockchains-and-social-scalability/]    
 
